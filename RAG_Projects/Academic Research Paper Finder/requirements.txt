@@ -1,0 +1,14 @@
+fastapi[standard]==0.115.6
+pandas==2.2.2
+numpy==1.23.5
+pathlib==1.0.1
+langchain==0.2.7
+langchain-community==0.2.7
+jq==1.8.0
+langchain-openai==0.1.16
+asyncio==3.4.3
+python-dotenv==1.0.1
+pytest==8.3.4
+pytest-asyncio==0.25.3
+streamlit==1.36.0
+faiss-cpu==1.8.0.post1
