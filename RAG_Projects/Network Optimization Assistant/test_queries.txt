@@ -1,0 +1,15 @@
+Query: "Authentication failures across all services, users cannot log in."
+ProductID: P16
+Reason: Aligns with INC016 (user authentication database corruption) and DOC016 (Active Directory recovery), testing authentication issues.
+
+Query: "VPN connections failing with certificate errors."
+ProductID: P31
+Reason: Matches INC019 (VPN tunnel failures due to certificates) and DOC031 (AnyConnect certificate management), testing security certificate issues.
+
+Query: "Fiber optic links degraded, affecting data center connectivity."
+ProductID: P50
+Reason: Matches INC050 (degraded optical power levels) and DOC050 (Ciena optical transport maintenance), testing fiber infrastructure problems.
+
+Query: "VoIP calls experiencing jitter and packet loss during peak hours."
+ProductID: P42
+Reason: Aligns with INC042 (voice quality degradation issues) and DOC042 (QoS configuration for voice traffic), testing voice quality troubleshooting.
