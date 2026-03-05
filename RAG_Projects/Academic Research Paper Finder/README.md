@@ -116,4 +116,5 @@ The system expects a CSV file with the following columns:
 ### Retriever Edge Cases:
 - **Empty Query**: Raises `ValueError("Query cannot be empty")`
 - **Too Short Query**: Raises `ValueError("Query too short. Please provide a more specific query.")`
+
 - **No Results Found**: Returns empty list, UI shows appropriate message
